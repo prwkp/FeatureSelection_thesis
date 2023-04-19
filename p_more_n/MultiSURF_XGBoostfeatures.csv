@@ -1,0 +1,313 @@
+,index,Feature,value_MultiSURF
+0,0,Data_length,1
+1,1,entropy_shannon_8_coef,2
+2,2,entropy_shannon3_8_coef,3
+3,3,det_TKEO_mean_7_coef,4
+4,4,entropy_shannon_7_coef,5
+5,5,entropy_shannon3_7_coef,6
+6,6,entropy_shannon_1_coef,7
+7,7,det_TKEO_mean_8_coef,8
+8,8,det_TKEO_mean3_7_coef,9
+9,9,entropy_shannon3_10_coef,10
+10,10,entropy_shannon_10_coef,11
+11,11,entropy_shannon_5_coef,12
+12,12,det_TKEO_std_10_coef,13
+13,13,det_TKEO_mean_10_coef,14
+14,14,det_TKEO_std_8_coef,15
+15,15,det_TKEO_std_7_coef,16
+16,16,det_TKEO_std3_10_coef,17
+17,17,entropy_shannon_2_coef,18
+18,18,det_TKEO_mean3_8_coef,19
+19,19,det_TKEO_mean_1_coef,20
+20,20,entropy_shannon_9_coef,21
+21,21,det_TKEO_mean3_1_coef,22
+22,22,det_TKEO_mean_5_coef,23
+23,23,det_TKEO_mean3_10_coef,24
+24,24,entropy_log4_4_coef,25
+25,25,det_TKEO_mean_9_coef,26
+26,26,entropy_log4_5_coef,27
+27,27,Jitter->F0_CV,28
+28,28,det_TKEO_mean_6_coef,29
+29,29,entropy_shannon_3_coef,30
+30,30,det_TKEO_std_5_coef,31
+31,31,entropy_log4_3_coef,32
+32,32,det_TKEO_mean3_5_coef,33
+33,33,det_TKEO_std3_7_coef,34
+34,34,det_TKEO_std3_8_coef,35
+35,35,det_TKEO_std_9_coef,36
+36,36,entropy_shannon3_9_coef,37
+37,37,det_TKEO_mean3_2_coef,38
+38,38,det_TKEO_std_1_coef,39
+39,39,Ed2_7_coef,40
+40,40,Ed_9_coef,41
+41,41,Ed2_1_coef,42
+42,42,entropy_shannon_6_coef,43
+43,43,det_TKEO_std3_5_coef,44
+44,44,entropy_log4_6_coef,45
+45,45,det_TKEO_std3_1_coef,46
+46,46,entropy_log4_2_coef,47
+47,47,det_TKEO_std_6_coef,48
+48,48,det_TKEO_mean_2_coef,49
+49,49,Ed_10_coef,50
+50,50,Ed2_10_coef,51
+51,51,Ed2_2_coef,52
+52,52,det_TKEO_mean_3_coef,53
+53,53,Ed2_8_coef,54
+54,54,Ea,55
+55,55,det_TKEO_mean3_3_coef,56
+56,56,det_TKEO_std3_2_coef,57
+57,57,Jitter->pitch_CV,58
+58,58,Ed_1_coef,59
+59,59,det_TKEO_mean3_9_coef,60
+60,60,det_TKEO_std3_6_coef,61
+61,61,det_TKEO_std_3_coef,62
+62,62,Ea2,63
+63,63,entropy_log4_1_coef,64
+64,64,Ed2_5_coef,65
+65,65,det_TKEO_mean3_6_coef,66
+66,66,Ed_8_coef,67
+67,67,det_TKEO_std3_9_coef,68
+68,68,Ed2_9_coef,69
+69,69,det_TKEO_std3_3_coef,70
+70,70,Ed2_3_coef,71
+71,71,det_TKEO_std_2_coef,72
+72,72,entropy_log4_7_coef,73
+73,73,Ed_7_coef,74
+74,74,Ed_3_coef,75
+75,75,Ed_2_coef,76
+76,76,Ed_5_coef,77
+77,77,entropy_shannon3_6_coef,78
+78,78,Ed2_6_coef,79
+79,79,Ed_6_coef,80
+80,80,Jitter->pitch_abs0th_perturb,81
+81,81,det_TKEO_std_4_coef,82
+82,82,det_TKEO_mean_4_coef,83
+83,83,entropy_shannon_4_coef,84
+84,84,det_TKEO_std3_4_coef,85
+85,85,Jitter->F0_abs0th_perturb,86
+86,86,Ed_4_coef,87
+87,87,det_TKEO_mean3_4_coef,88
+88,88,entropy_shannon3_5_coef,89
+89,89,entropy_log4_8_coef,90
+90,90,Jitter->pitch_range_5_95_perc,91
+91,91,std_F0_series_F0_expTitze,92
+92,92,entropy_log2_3_coef,93
+93,93,entropy_shannon3_1_coef,94
+94,94,entropy_log2_4_coef,95
+95,95,entropy_log2_2_coef,96
+96,96,Ed2_4_coef,97
+97,97,prc95_5_F0_series_F0_expTitze,98
+98,98,Jitter->F0range_5_95_perc,99
+99,99,entropy_log2_1_coef,100
+100,100,entropy_log2_5_coef,101
+101,101,Jitter->pitch_TKEO_mean,102
+102,102,det_TKEO_mean2_6_coef,103
+103,103,det_TKEO_mean2_5_coef,104
+104,104,Jitter->pitch_abs,105
+105,105,Jitter->pitch_TKEO_prc5,106
+106,106,det_TKEO_mean2_4_coef,107
+107,107,entropy_shannon2_6_coef,108
+108,108,entropy_shannon2_7_coef,109
+109,109,entropy_shannon2_5_coef,110
+110,110,entropy_shannon2_4_coef,111
+111,111,entropy_shannon2_3_coef,112
+112,112,entropy_shannon2_1_coef,113
+113,113,entropy_shannon2_2_coef,114
+114,114,entropy_log2_6_coef,115
+115,115,det_TKEO_mean2_7_coef,116
+116,116,entropy_shannon2_8_coef,117
+117,117,entropy_shannon3_2_coef,118
+118,118,det_TKEO_mean2_3_coef,119
+119,119,det_TKEO_mean2_1_coef,120
+120,120,entropy_shannon2_9_coef,121
+121,121,det_TKEO_mean2_10_coef,122
+122,122,det_TKEO_mean2_2_coef,123
+123,123,det_TKEO_std2_10_coef,124
+124,124,entropy_shannon2_10_coef,125
+125,125,det_TKEO_mean2_9_coef,126
+126,126,entropy_shannon3_3_coef,127
+127,127,det_TKEO_std2_6_coef,128
+128,128,det_TKEO_std2_9_coef,129
+129,129,det_TKEO_mean2_8_coef,130
+130,130,entropy_log4_9_coef,131
+131,131,PPE,132
+132,132,det_TKEO_std2_1_coef,133
+133,133,det_TKEO_std2_5_coef,134
+134,134,det_TKEO_std2_7_coef,135
+135,135,det_TKEO_std2_4_coef,136
+136,136,det_TKEO_std2_8_coef,137
+137,137,det_TKEO_std2_2_coef,138
+138,138,Jitter->pitch_TKEO_prc95,139
+139,139,det_TKEO_std2_3_coef,140
+140,140,entropy_shannon4_2_coef,141
+141,141,entropy_shannon4_1_coef,142
+142,142,entropy_shannon4_3_coef,143
+143,143,entropy_log2_7_coef,144
+144,144,entropy_shannon4_4_coef,145
+145,145,Jitter->pitch_TKEO_prc25,146
+146,146,Jitter->F0_TKEO_prc95,147
+147,147,Jitter->F0_PQ5_classical_Schoentgen,148
+148,148,entropy_shannon4_5_coef,149
+149,149,Jitter->pitch_PQ5_classical_Schoentgen,150
+150,150,Jitter->F0_dif_percent,151
+151,151,Jitter->pitch_percent,152
+152,152,Jitter->F0_TKEO_mean,153
+153,153,Gender,154
+154,154,entropy_shannon4_6_coef,155
+155,155,Jitter->F0_TKEO_std,156
+156,156,Jitter->F0_TKEO_prc25,157
+157,157,entropy_log4_10_coef,158
+158,158,NHR->NHR_Praat_mean,159
+159,159,entropy_shannon4_7_coef,160
+160,160,Jitter->F0_TKEO_prc5,161
+161,161,Jitter->F0_PQ5_generalised_Schoentgen,162
+162,162,entropy_log2_8_coef,163
+163,163,entropy_shannon4_8_coef,164
+164,164,Jitter->pitch_TKEO_std,165
+165,165,det_TKEO_std4_1_coef,166
+166,166,entropy_shannon4_9_coef,167
+167,167,Jitter->pitch_PQ5_generalised_Schoentgen,168
+168,168,det_TKEO_mean4_1_coef,169
+169,169,Jitter->F0_abs_dif,170
+170,170,det_TKEO_std4_2_coef,171
+171,171,det_TKEO_mean4_10_coef,172
+172,172,det_TKEO_mean4_2_coef,173
+173,173,det_TKEO_mean4_9_coef,174
+174,174,det_TKEO_mean4_8_coef,175
+175,175,det_TKEO_std4_10_coef,176
+176,176,det_TKEO_std4_5_coef,177
+177,177,det_TKEO_std4_6_coef,178
+178,178,det_TKEO_mean4_6_coef,179
+179,179,det_TKEO_mean4_7_coef,180
+180,180,det_TKEO_mean4_5_coef,181
+181,181,det_TKEO_std4_9_coef,182
+182,182,det_TKEO_std4_7_coef,183
+183,183,det_TKEO_std4_8_coef,184
+184,184,det_TKEO_std4_3_coef,185
+185,185,det_TKEO_mean4_4_coef,186
+186,186,entropy_shannon4_10_coef,187
+187,187,entropy_log2_9_coef,188
+188,188,det_TKEO_std4_4_coef,189
+189,189,det_TKEO_mean4_3_coef,190
+190,190,entropy_log2_10_coef,191
+191,191,Jitter->pitch_TKEO_prc75,192
+192,192,IMF->SNR_SEO,193
+193,193,NHR->NHR_Praat_std,194
+194,194,entropy_shannon3_4_coef,195
+195,195,Jitter->F0_TKEO_prc75,196
+196,196,Jitter->pitch_FM,197
+197,197,Jitter->F0_FM,198
+198,198,GNE->mean,199
+199,199,GNE->std,200
+200,200,entropy_log3_3_coef,201
+201,201,entropy_log_3_coef,202
+202,202,F0_series_F0_expTitze,203
+203,203,entropy_log3_2_coef,204
+204,204,entropy_log3_1_coef,205
+205,205,entropy_log_4_coef,206
+206,206,entropy_log3_4_coef,207
+207,207,VFER->entropy,208
+208,208,entropy_log_2_coef,209
+209,209,IMF->SNR_TKEO,210
+210,210,entropy_log_1_coef,211
+211,211,DFA,212
+212,212,IMF->SNR_entropy,213
+213,213,VFER->SNR_TKEO,214
+214,214,VFER->SNR_TKEO1,215
+215,215,delta delta log energy,216
+216,216,Shimmer->Ampl_CV,217
+217,217,VFER->SNR_SEO,218
+218,218,VFER->mean,219
+219,219,OQ->prc5_95,220
+220,220,HNR->HNR_dB_Praat_mean,221
+221,221,OQ->std_cycle_closed,222
+222,222,MFCC_1st coef,223
+223,223,Shimmer->Ampl_dB,224
+224,224,Shimmer->Ampl_PQ5_classical_Schoentgen,225
+225,225,Shimmer->Ampl_dif_percent,226
+226,226,Shimmer->Ampl_PQ3_classical_Schoentgen,227
+227,227,Shimmer->Ampl_PQ11_classical_Schoentgen,228
+228,228,Shimmer->Ampl_PQ3_generalised_Schoentgen,229
+229,229,Shimmer->Ampl_PQ11_generalised_Schoentgen,230
+230,230,Shimmer->Ampl_PQ5_generalised_Schoentgen,231
+231,231,Shimmer->Ampl_abs_dif,232
+232,232,entropy_log_5_coef,233
+233,233,entropy_log_6_coef,234
+234,234,VFER->std,235
+235,235,Shimmer->Ampl_TKEO_prc25,236
+236,236,entropy_log_10_coef,237
+237,237,Shimmer->Ampl_TKEO_prc95,238
+238,238,Jitter->F0_PQ5_classical_Baken,239
+239,239,OQ->std_cycle_open,240
+240,240,Shimmer->Ampl_TKEO_mean,241
+241,241,entropy_log_9_coef,242
+242,242,RPDE,243
+243,243,Shimmer->Ampl_TKEO_prc75,244
+244,244,MFCC_2nd coef,245
+245,245,Shimmer->Ampl_TKEO_prc5,246
+246,246,IMF->NSR_SEO,247
+247,247,GNE->NSR_SEO,248
+248,248,Shimmer->Ampl_TKEO_std,249
+249,249,entropy_log3_5_coef,250
+250,250,delta delta 0th,251
+251,251,entropy_log3_10_coef,252
+252,252,entropy_log_7_coef,253
+253,253,entropy_log_8_coef,254
+254,254,entropy_log3_9_coef,255
+255,255,IMF->NSR_entropy,256
+256,256,MFCC_3rd coef,257
+257,257,entropy_log3_6_coef,258
+258,258,entropy_log3_8_coef,259
+259,259,IMF->NSR_TKEO,260
+260,260,Shimmer->Ampl_PQ11_classical_Baken,261
+261,261,Shimmer->Ampl_AM,262
+262,262,GNE->NSR_TKEO,263
+263,263,Shimmer->Ampl_abs0th_perturb,264
+264,264,GNE->SNR_TKEO,265
+265,265,Log energy,266
+266,266,VFER->NSR_TKEO,267
+267,267,MFCC_0th coef,268
+268,268,VFER->NSR_SEO,269
+269,269,Jitter->pitch_PQ5_classical_Baken,270
+270,270,Shimmer->Ampl_PQ3_classical_Baken,271
+271,271,VFER->NSR_TKEO1,272
+272,272,HNR->HNR_dB_Praat_std,273
+273,273,7th delta-delta,274
+274,274,entropy_log3_7_coef,275
+275,275,Age,276
+276,276,MFCC_4th coef,277
+277,277,MFCC_11th coef,278
+278,278,MFCC_5th coef,279
+279,279,MFCC_10th coef,280
+280,280,1st delta delta,281
+281,281,8th delta-delta,282
+282,282,GNE->SNR_SEO,283
+283,283,1st delta,284
+284,284,MFCC_12th coef,285
+285,285,0th delta,286
+286,286,7th delta,287
+287,287,4th delta-delta,288
+288,288,delta log energy,289
+289,289,MFCC_7th coef,290
+290,290,12th delta,291
+291,291,MFCC_6th coef,292
+292,292,6th delta-delta,293
+293,293,11th delta-delta,294
+294,294,MFCC_9th coef,295
+295,295,5th delta-delta,296
+296,296,9th delta-delta,297
+297,297,Shimmer->Ampl_PQ5_classical_Baken,298
+298,298,2nd delta-delta,299
+299,299,9th delta,300
+300,300,8th delta,301
+301,301,10th delta-delta,302
+302,302,12th delta-delta,303
+303,303,3rd delta,304
+304,304,11th delta,305
+305,305,3rd delta-delta,306
+306,306,6th delta,307
+307,307,10th delta,308
+308,308,MFCC_8th coef,309
+309,309,5th delta,310
+310,310,4th delta,311
+311,311,2nd delta,312

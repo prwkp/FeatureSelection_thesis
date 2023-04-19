@@ -1,0 +1,12 @@
+,0
+n_baselineXGBoost,312.0
+avgF1_baselineXGBoost,0.8643578643578642
+stdF1_baselineXGBoost,0.04772011171804006
+avgF1set1_baselineXGBoost,0.9003102453102454
+stdF1set1_baselineXGBoost,0.05479680704989319
+avgF1set2_baselineXGBoost,0.8961062303709362
+stdF1set2_baselineXGBoost,0.06205463659536259
+avgF1set3_baselineXGBoost,0.7996536796536796
+stdF1set3_baselineXGBoost,0.02055142088233746
+avgF1set4_baselineXGBoost,0.9017390289449114
+stdF1set4_baselineXGBoost,0.04974087795519576

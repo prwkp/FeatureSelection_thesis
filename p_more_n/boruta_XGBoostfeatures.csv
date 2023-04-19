@@ -1,0 +1,9 @@
+Feature,value_boruta
+Glucose,1
+BMI,1
+Age,1
+Insulin,2
+DiabetesPedigreeFunction,3
+SkinThickness,4
+Pregnancies,5
+BloodPressure,5
